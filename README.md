@@ -1,41 +1,34 @@
--------> ROADMAP <---------
-	
-	Proof of Concept
-=========================
+# Proof of Concept
 
-- Simple grid
-- Spawn sync other players
-- Add movement (mouse movement)
-- Add player view (we want to see small part of the map)
-	- Add automatic zoom
-	- Add recentering after player movement
+* Simple grid
+* Spawn sync other players
+* Add player movement (mouse movement)
+* Add recentering after player movement (sidescrolling)
+* Add automatic zoom & minimap
 
-	Software product
+# Software product
 
-- Add map restictions
-- Add random bloops (server side)
-- Add ability to eat bloops
-- Add ability to eat other players (smaller than me)
-- Add skins 
-- Add ability to split	
-- Add bloops that will split the player		
-- Add random player color
+* Add map restictions
+* Add random bloops (server side)
+* Add ability to eat bloops
+* Add ability to eat other players (smaller than me)
+* Add ability to split	
+* Add bloops that will split the player		
+* Random player colors
 
-	Aditional work (Linking to DB) 
+# Aditional work (Linking to DB) 
 
-- Add database to same user's stats (MySQL or SQL Lite)
-- Add sessions
-- Add new game modes
+* Add database (MySQL or SQL Lite)
+* Add sessions
+* Add new gamemodes
 	- Battleroyale
 	- Party mode (with private sesions)
 	- Time mode
-- Add Chat
-- Add friend list
-- Add circle images
-- Add discord forum
-- Add tutorial
-- Add afk timeout
+* Add chat
+* Add contacts (possibly discord) 
+* Add tutorial for the game
 
-	Final product
+# Final product
 
-- Testing, fixing and optimising the game
+* Testing, fixing and optimising the game
+
